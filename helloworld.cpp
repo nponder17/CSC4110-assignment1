@@ -15,6 +15,6 @@ return 0;
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Testing Git Merge" << endl;
     return 0;
 }
